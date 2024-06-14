@@ -1,3 +1,7 @@
+sorry update only the frontend, here is the full stack
+---------------------------------------------------------------------------
+https://github.com/rick-mingyu-liu/chat-room-with-gpt-api-full-stack
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
